@@ -1,0 +1,2 @@
+# M1_app_HospitalManagementSystem
+MiniProject
